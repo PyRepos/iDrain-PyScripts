@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DeviceConnector", "DeviceConnector\DeviceConnector.pyproj", "{FE674367-EF4A-43D9-A320-2448C6EEA1F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE674367-EF4A-43D9-A320-2448C6EEA1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE674367-EF4A-43D9-A320-2448C6EEA1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79CCD3B7-3247-4801-940F-C32D6503EC27}
+	EndGlobalSection
+EndGlobal
